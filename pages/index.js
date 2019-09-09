@@ -8,7 +8,7 @@ import {
 } from "components";
 
 const intro = `
-In this single live coding focused event you will learn more about topics you would likely not hear otherwise while connecting with the broader developer community.
+In this single track live coding focused event you will learn more about topics you would likely not hear otherwise while connecting with the broader developer community.
 
 The workshops take place 12.11 while the actual conference is held 13.11.`;
 
