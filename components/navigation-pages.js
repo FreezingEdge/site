@@ -96,6 +96,10 @@ export default [
         url: "/2019/",
       },
       {
+        title: "React Finland",
+        url: "https://react-finland.fi/",
+      },
+      {
         title: "GraphQL Finland",
         url: "https://graphql-finland.fi/",
       },
