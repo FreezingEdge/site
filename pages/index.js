@@ -10,7 +10,7 @@ import {
 const intro = `
 In this single track live coding focused event you will learn more about topics you would likely not hear otherwise while connecting with the broader developer community.
 
-The workshops take place 12.11 while the actual conference is held 13.11.`;
+The conference takes place 01.06.2020 and we hope the weather isn't too cold.`;
 
 const secondary = `
 By the way, we proudly follow [Berlin code of conduct](http://berlincodeofconduct.org/).
@@ -52,7 +52,7 @@ const Index = ({ conference }) => (
     {/*<AnchorHeader level={2}>Tickets</AnchorHeader>
     <div className="grid--full">
       Not available at the moment.
-      <tito-widget event="freezing-edge/2019">
+      <tito-widget event="freezing-edge/2020">
         Loading. Patience my padawan!
       </tito-widget>
     </div>*/}

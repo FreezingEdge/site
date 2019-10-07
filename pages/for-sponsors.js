@@ -2,7 +2,7 @@ import React from "react";
 import { Markdown } from "components";
 
 const intro = `
-Freezing Edge is a spin-off of [React Finland](https://react-finland.fi) conference arranged 12-13 of November, 2019 in Helsinki. The conference begins with a workshop day and the following conference day is focused on live coding on emerging technologies.`;
+Freezing Edge is a spin-off of [React Finland](https://react-finland.fi) conference arranged 1st of June, 2020 in Helsinki as a single day live coding focused event.`;
 
 const main = `
 ## International Speakers
@@ -11,11 +11,11 @@ The eight speakers of the conference have varying backgrounds and our roster inc
 
 ## Focused Audience
 
-We expect the audience to be mostly local. Our target is to reach up to 200 attendees.
+We expect the audience to be mostly local. Our target is to attract up to 200 attendees although the proximity of React Finland will likely extend the reach.
 
 ## Your Spot to Shine
 
-We are offering the perfect spot for companies to promote their knowledge and presence in the React ecosystem through sponsorships. In addition, there will be also side activities with speakers and organizers to connect and communicate with top level professionals.
+We are offering the perfect spot for companies to promote their knowledge and presence in the developer ecosystem through sponsorships. In addition, there will be also side activities with speakers and organizers to connect and communicate with top level professionals.
 
 ## Packages
 

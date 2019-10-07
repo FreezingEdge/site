@@ -28,7 +28,7 @@ To get to the center for airport, you can use train, Finnair buses or taxi. It s
 
 1. Use the site [schedule](/schedule/).
 2. Use the mobile applications (Android, iPhone).
-3. [Subscribe to the conference calendar](https://api.react-finland.fi/calendar/freezing-edge-2019). You can import it to your Google Calendar for example.
+3. [Subscribe to the conference calendar](https://api.react-finland.fi/calendar/freezing-edge-2020). You can import it to your Google Calendar for example.
 
 ## How to Prepare for a Workshop?
 

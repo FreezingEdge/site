@@ -28,7 +28,7 @@ export default [
       },
       /*{
         title: "Schedule",
-        url: "/schedule/#2019-04-26-second-conference-day",
+        url: "/schedule/,
       },
       {
         title: "Workshops",
@@ -87,14 +87,6 @@ export default [
       className: "nav--secondary",
     },
     links: [
-      {
-        title: "2018",
-        url: "/2018/",
-      },
-      {
-        title: "2019",
-        url: "/2019/",
-      },
       {
         title: "React Finland",
         url: "https://react-finland.fi/",

@@ -30,15 +30,15 @@ const Header = ({ pathname, title }) => {
         </h2>
 
         <section className="header--dates">
-          <time dateTime="2019-11-12/2019-11-13" className="header--date">
-            12-13.11.2019
+          <time dateTime="2020-06-01" className="header--date">
+            01.06.2020
           </time>
           <address className="header--location">Helsinki, Finland</address>
         </section>
         {/*<Interactive
           id="components/Countdown.js"
           component={Countdown}
-          toDate="2019-04-24"
+          toDate="2020-06-01"
           containerProps={{ className: "countdown--container" }}
         />*/}
         <section className="header--buy">

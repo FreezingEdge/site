@@ -1,6 +1,6 @@
 const path = require("path");
 const EVENT_NAME = "Freezing Edge";
-const CONFERENCE_ID = "freezing-edge-2019";
+const CONFERENCE_ID = "freezing-edge-2020";
 
 module.exports = {
   apiUrl: "https://api.react-finland.fi/graphql",
@@ -23,7 +23,7 @@ module.exports = {
       "index",
       {
         title: EVENT_NAME,
-        description: `${EVENT_NAME} (12-13.11.2019, Helsinki) is a conference that comes with a workshop day and a day of live coding.`,
+        description: `${EVENT_NAME} (01.06.2020, Helsinki) is a one day live coding conference.`,
       },
       {
         conferenceId: CONFERENCE_ID,
