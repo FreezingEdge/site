@@ -8,7 +8,7 @@ const ContactMiniContent = ({ image, name }) => [
     alt="about"
     className="contact-mini-logo photo"
     src={image.url}
-    width={100}
+    width={150}
   />,
   <figcaption key="name" className="contact-mini-name">
     {name}
