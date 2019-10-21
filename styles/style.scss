@@ -242,15 +242,19 @@ address {
     align-items: center;
   }
   &--tagline {
+    color: #6011a7;
+    background-color: rgba(0, 255, 222, 0.46);
     text-align: right;
     grid-column: 3 / span 4;
     grid-row: 3;
-    margin: 0;
-    padding: 0;
+    padding: $pu * 1;
     font-size: xx-large;
     @media (max-width: $mobile-breakpoint) {
       grid-column: 2 / span 5;
     }
+    display: flex;
+    margin: 0;
+    margin-left: auto;
   }
   &--dates {
     text-align: right;
@@ -259,11 +263,21 @@ address {
     @media (max-width: $mobile-breakpoint) {
       grid-column: 2 / span 5;
     }
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
   }
   &--date {
+    color: #6011a7;
+    background-color: rgba(0, 255, 222, 0.46);
+    padding: $pu * 1;
+    margin-bottom: $pu * 1;
     font-size: larger;
   }
   &--location {
+    color: #6011a7;
+    background-color: rgba(0, 255, 222, 0.46);
+    padding: $pu * 1;
   }
   &--buy {
     grid-column: 5 / span 2;
