@@ -75,7 +75,7 @@ export default [
       },
       {
         title: (
-          <a href="https://github.com/ReactFinland">
+          <a href="https://github.com/FreezingEdge">
             <i className="fab fa-github" aria-label="Github" />
           </a>
         ),
