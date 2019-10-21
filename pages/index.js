@@ -8,13 +8,13 @@ import {
 } from "components";
 
 const intro = `
-In this single track live coding focused event you will learn more about topics you would likely not hear otherwise while connecting with the broader developer community.
+In this single track, live coding focused event, you will learn about topics you would probably not hear otherwise.
 
 Freezing Edge is a [React Finland](https://react-finland.fi) spin-off and it will be held right after the React focused event. In contrast to React Finland, it's a broad spectrum event that puts focus on live performance.
 
 Although normal conferences have their place, the standard format can get a little predictable after a while. The purpose of Freezing Edge is to focus on the technologies of the future, hence the name. We want to show you what's upcoming and what developers in other domains are currently working on.
 
-You should expect to learn about different aspects of multimedia (audio, graphics, virtual reality) and programming languages of the future at least!
+You should expect to learn about different aspects of multimedia (audio, graphics, extended reality) and programming languages of the future at least!
 
 The conference takes place 01.06.2020 and we hope the weather isn't going to be freezing, unfortunately.`;
 
