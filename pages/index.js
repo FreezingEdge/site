@@ -4,7 +4,6 @@ import {
   Contacts,
   ContactMini,
   Markdown,
-  Tickets,
   connect,
 } from "components";
 
