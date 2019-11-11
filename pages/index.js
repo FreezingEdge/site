@@ -4,6 +4,7 @@ import {
   Contacts,
   ContactMini,
   Markdown,
+  Tickets,
   connect,
 } from "components";
 
@@ -55,13 +56,17 @@ const Index = ({ conference }) => (
         render={ContactMini}
       />
     </div>
-    {/*<AnchorHeader level={2}>Tickets</AnchorHeader>
-    <div className="grid--full">
-      Not available at the moment.
-      <tito-widget event="freezing-edge/2020">
-        Loading. Patience my padawan!
-      </tito-widget>
-    </div>*/}
+    <AnchorHeader className="visually-hidden" level={2}>
+      Tickets
+    </AnchorHeader>
+    <div className="buy-container">
+      <a
+        className="buy-button"
+        href="https://fienta.com/freezing-edge-2020?dc887244cff3ca32249a722f217ad0d6"
+      >
+        Buy tickets
+      </a>
+    </div>
   </>
 );
 

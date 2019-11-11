@@ -33,11 +33,12 @@ export default [
       /*{
         title: "Workshops",
         url: "/workshops/",
-      },
+      },*/
       {
         title: <b>Buy tickets</b>,
-        url: "/#tickets",
-      },*/
+        url:
+          "https://fienta.com/freezing-edge-2020?dc887244cff3ca32249a722f217ad0d6",
+      },
     ],
   },
   {
