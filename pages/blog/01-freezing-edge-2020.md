@@ -4,6 +4,8 @@ date: 2019-11-12
 keywords: ["announcement"]
 ---
 
+> TL;DR; [The tickets are here.](https://fienta.com/freezing-edge-2020?dc887244cff3ca32249a722f217ad0d6)
+
 Freezing Edge is a new conference concept from the team behind [React Finland](https://react-finland.fi) and [GraphQL Finland](https://graphql-finland.fi). The aforementioned conferences are what I might call traditional community-oriented tech conferences.
 
 The idea has always been to connect the Finnish tech community with the international one by bringing speakers from abroad. Incidentally our conferences also attract attendees from abroad so they are truly international ones.
