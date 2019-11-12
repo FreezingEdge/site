@@ -24,9 +24,6 @@ module.exports = function pageLoader(source) {
     }__IMG_END__`;
   }
 
-  const context = this;
-  const resolve = resolveAliases(context.resource);
-
   return `module.exports = ${JSON.stringify(result)};`.replace(
     /__IMG_START__([^,\]>]+)__IMG_END__/g,
     (match, src) => {
@@ -34,23 +31,10 @@ module.exports = function pageLoader(source) {
         return src;
       }
 
-      return `" + require(${loaderUtils.stringifyRequest(
-        context,
-        resolve(src)
-      )}) + "`;
+      return `" + require(${loaderUtils.stringifyRequest(this, src)}) + "`;
     }
   );
 };
-
-function resolveAliases() {
-  return src => {
-    if (!src.startsWith("images")) {
-      return src;
-    }
-
-    return src;
-  };
-}
 
 function generatePreview(file, body) {
   let ret = body;
@@ -92,11 +76,12 @@ function markdown() {
   renderer.image = function image(href, title, text) {
     const textParts = text ? text.split("|") : [];
     const alt = textParts[0] || "";
+    const description = markdown().process(alt);
     const width = textParts[1] || "";
     const height = textParts[2] || "";
     const className = textParts[3] || "";
 
-    return `<figure><img src="__IMG_START__${href}__IMG_END__" alt="${alt}" class="${className}" width="${width}" height="${height}" /><figcaption>${alt}</figcaption></figure>`;
+    return `<figure><img src="__IMG_START__${href}__IMG_END__" alt="${alt}" class="image ${className}" width="${width}" height="${height}" /><figcaption>${description}</figcaption></figure>`;
   };
 
   // patch ids (this.options.headerPrefix can be undefined!)

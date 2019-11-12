@@ -16,7 +16,9 @@ Although normal conferences have their place, the standard format can get a litt
 
 You should expect to learn about different aspects of multimedia (audio, graphics, extended reality) and programming languages of the future at least!
 
-The conference takes place 01.06.2020 and we hope the weather isn't going to be freezing, unfortunately.`;
+The conference takes place 01.06.2020 and the weather isn't going to be freezing, unfortunately.
+
+[Read more about the conference!](/blog/freezing-edge-2020/)`;
 
 const secondary = `
 By the way, we proudly follow [Berlin code of conduct](http://berlincodeofconduct.org/).
@@ -59,8 +61,8 @@ const Index = ({ conference }) => (
     <div className="intro--main">
       <p>
         The tickets for Freezing Edge begin from 199 eur (VAT included). The
-        ticket includes access to the one day conference, lunch, and snacks
-        during the breaks.
+        ticket includes access to the one day conference, lunch, snacks during
+        the breaks, and an afterparty.
       </p>
     </div>
     <div className="buy-container">
