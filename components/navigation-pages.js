@@ -46,20 +46,13 @@ export default [
       className: "nav--social",
     },
     links: [
-      {
+      /*{
         title: (
           <a href="https://www.youtube.com/c/ReactFinland">
             <i className="fab fa-youtube" aria-label="Youtube" />
           </a>
         ),
-      },
-      {
-        title: (
-          <a href="https://medium.com/react-finland">
-            <i className="fab fa-medium" aria-label="Medium" />
-          </a>
-        ),
-      },
+      },*/
       {
         title: (
           <a href="https://twitter.com/FreezingEdgeFi">
