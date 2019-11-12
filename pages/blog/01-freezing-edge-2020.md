@@ -12,7 +12,7 @@ Freezing Edge will take place on 1st of June 2020 right after a week of [React F
 
 ## Focus on Future Tech
 
-Given the experience about running tech-focused conferences, we decided to try something different. Instead of focusing on a specific technology, Freezing Edge has focus on the technologies of the future. Ideally we should be able to show you what development is like within the next five to ten years.
+Given the experience we have running tech-focused conferences, we decided to try something different. Instead of focusing on a specific technology, Freezing Edge has focus on the technologies of the future. Ideally we should be able to show you what development is like within the next five to ten years.
 
 Because of this, we'll have a broad range of topics from programming languages to extended reality, audio, and graphics. In this one day conference, we'll have around eight to nine speakers discussing the topics.
 
@@ -32,12 +32,12 @@ The format is a challenge for our speakers as you cannot prepare as well as for 
 
 To give you an idea of what's to come, consider the following speakers and topics:
 
-* [Ken Wheeler](/speakers/#ken-wheeler) will launch the conference on the theme of audio. Ken is a developer turned hip hop and synthwave producer. You might remember him from the first edition (2018) of React Finland.
-* [Tero Parviainen](/speakers/#tero-parviainen), a Finnish developer known for his writing and work around audio and AI will continue from there. Most likely we should expect something AI related.
-* [George Mandis](/speakers/#george-mandis), an American freelancer and a GDE, will focus on machine learning and painting with computer.
-* [Patrick Stapfer](/speakers/#patrick-stapfer), one of the founders of [Reason Association](https://www.reason-association.org), will give us a whirlwind tour of ReasonML, the emerging web development language.
-* [Natalia Tepluhina](/speakers/#natalia-tepluhina), a Vue.js core team member, will most likely dazzle us with RxJS.
-* [Krista Jäntti](/speakers/#krista-j-ntti), Lead UI/UX designer at [Varjo](https://varjo.com), will show us what's possible to achieve with extended reality these days.
+- [Ken Wheeler](/speakers/#ken-wheeler) will launch the conference on the theme of audio. Ken is a developer turned hip hop and synthwave producer. You might remember him from the first edition (2018) of React Finland.
+- [Tero Parviainen](/speakers/#tero-parviainen), a Finnish developer known for his writing and work around audio and AI will continue from there. Most likely we should expect something AI related.
+- [George Mandis](/speakers/#george-mandis), an American freelancer and a GDE, will focus on machine learning and painting with computer.
+- [Patrick Stapfer](/speakers/#patrick-stapfer), one of the founders of [Reason Association](https://www.reason-association.org), will give us a whirlwind tour of ReasonML, the emerging web development language.
+- [Natalia Tepluhina](/speakers/#natalia-tepluhina), a Vue.js core team member, will most likely dazzle us with RxJS.
+- [Krista Jäntti](/speakers/#krista-j-ntti), Lead UI/UX designer at [Varjo](https://varjo.com), will show us what's possible to achieve with extended reality these days.
 
 The speaker list isn't final still and likely we'll do a couple of additions closer to the conference. Expect roughly nine speakers, though. Especially in a concept like this, it's important to give enough time for each speaker as performing is challenging due to the infamous demo effect. Things will likely go wrong at some point but often that's the salt of a session as then you'll see how to recover from the situation and learn in the process.
 
