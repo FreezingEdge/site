@@ -12,9 +12,9 @@ Freezing Edge will take place on 1st of June 2020 right after a week of [React F
 
 ## Focus on Future Tech
 
-Given we've experience about running tech-focused conferences, we decided to try something different. Instead of focusing on a specific tech, Freezing Edge has focus on the technology of the future. Ideally we should be able to show you what development is like within the next five to ten years.
+Given the experience about running tech-focused conferences, we decided to try something different. Instead of focusing on a specific technology, Freezing Edge has focus on the technologies of the future. Ideally we should be able to show you what development is like within the next five to ten years.
 
-Because of this, we'll have a broad range of topics from programming languages to virtual reality, audio, and graphics. In this one day conference, we'll have around eight speakers discussing the topics.
+Because of this, we'll have a broad range of topics from programming languages to extended reality, audio, and graphics. In this one day conference, we'll have around eight to nine speakers discussing the topics.
 
 By doing this choice, we acknowledge that as developers we have a lot to learn from each other in different domains. Often we tend to form tight tribes of our own and therefore narrow our view. By being aware of what's going on in other domains, we can extend our skills and knowledge while gaining inspiration for our daily work.
 
@@ -37,7 +37,7 @@ To give you an idea of what's to come, consider the following speakers and topic
 * [George Mandis](/speakers/#george-mandis), an American freelancer and a GDE, will focus on machine learning and painting with computer.
 * [Patrick Stapfer](/speakers/#patrick-stapfer), one of the founders of [Reason Association](https://www.reason-association.org), will give us a whirlwind tour of ReasonML, the emerging web development language.
 * [Natalia Tepluhina](/speakers/#natalia-tepluhina), a Vue.js core team member, will most likely dazzle us with RxJS.
-* [Krista Jäntti](/speakers/#krista-j-ntti), lead ui/ux designer at [Varjo](https://varjo.com), will show us what's possible to achieve with virtual reality these days.
+* [Krista Jäntti](/speakers/#krista-j-ntti), Lead UI/UX designer at [Varjo](https://varjo.com), will show us what's possible to achieve with extended reality these days.
 
 The speaker list isn't final still and likely we'll do a couple of additions closer to the conference. Expect roughly nine speakers, though. Especially in a concept like this, it's important to give enough time for each speaker as performing is challenging due to the infamous demo effect. Things will likely go wrong at some point but often that's the salt of a session as then you'll see how to recover from the situation and learn in the process.
 
@@ -45,8 +45,8 @@ The speaker list isn't final still and likely we'll do a couple of additions clo
 
 ![At afterparty by [Nick Tulinen](http://nicktulinen.com)](assets/img/afterparty.jpg)
 
-To end the conference, we'll organize an afterparty. Although there will be likely drinks, we'll make sure you can have a good experience without.
+To end the conference, we'll organize an afterparty. Although there will be likely drinks, we'll guarantee you can have a good experience without.
 
 ## Conclusion
 
-We hope you'll come join us in the first edition of Freezing Edge. The pricing begins from 199 eur and you can [buy tickets now](https://fienta.com/freezing-edge-2020?dc887244cff3ca32249a722f217ad0d6).
+We hope you'll come join us in the first edition of Freezing Edge. The pricing begins from 199€ and you can [buy tickets now](https://fienta.com/freezing-edge-2020?dc887244cff3ca32249a722f217ad0d6).
