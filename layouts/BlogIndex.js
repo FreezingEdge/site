@@ -4,7 +4,7 @@ import _ from "lodash";
 import { Link, Moment } from "../components";
 
 const BlogIndex = ({ section }) => (
-  <div className="blog-index grid">
+  <div className="blog-index grid--5col">
     <h1>Blog Posts</h1>
 
     <ul className="post-list">
