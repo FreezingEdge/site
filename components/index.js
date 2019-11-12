@@ -1,3 +1,4 @@
+export { default as Author } from "./Author";
 export { default as AnchorHeader } from "./AnchorHeader";
 export { default as AnchorProvider } from "./AnchorProvider";
 export { default as Contacts } from "./Contacts";
@@ -8,6 +9,7 @@ export { default as Link } from "./Link";
 export { default as Navigation } from "./Navigation";
 export { default as Markdown } from "./Markdown";
 export { default as Meta } from "./Meta";
+export { default as Moment } from "./Moment";
 export { default as Organizer } from "./Organizer";
 export { default as Schedule } from "./Schedule";
 export { default as ScheduleLegend } from "./ScheduleLegend";
@@ -18,4 +20,5 @@ export { default as Sponsor } from "./Sponsor";
 export { default as Footer } from "./Footer";
 export { default as VenueGallery } from "./VenueGallery";
 export { default as Workshop } from "./Workshop";
+export { default as PrevNext } from "./PrevNext";
 export { default as connect } from "./connect";
