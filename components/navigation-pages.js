@@ -62,7 +62,7 @@ export default [
       },
       {
         title: (
-          <a href="https://twitter.com/ReactFinland">
+          <a href="https://twitter.com/FreezingEdgeFi">
             <i className="fab fa-twitter" aria-label="Twitter" />
           </a>
         ),
