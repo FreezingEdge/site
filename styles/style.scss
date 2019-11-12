@@ -221,6 +221,16 @@ address {
   }
 }
 
+.heading-anchor-select {
+  display: none;
+  margin-left: 0.25em;
+}
+
+.heading:active .heading-anchor-select,
+.heading:hover .heading-anchor-select {
+  display: inline;
+}
+
 .header {
   margin: 0;
   padding: 0;
