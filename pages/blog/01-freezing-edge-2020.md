@@ -38,6 +38,7 @@ To give you an idea of what's to come, consider the following speakers and topic
 - [Tero Parviainen](/speakers/#tero-parviainen), a Finnish developer known for his writing and work around audio and AI will continue from there. Most likely we should expect something AI related.
 - [George Mandis](/speakers/#george-mandis), an American freelancer and a GDE, will focus on machine learning and painting with computer.
 - [Patrick Stapfer](/speakers/#patrick-stapfer), one of the founders of [Reason Association](https://www.reason-association.org), will give us a whirlwind tour of ReasonML, the emerging web development language.
+- [Bodil Stokke](/speakers/#bodil-stokke) will show us the power of the Rust programming language.
 - [Natalia Tepluhina](/speakers/#natalia-tepluhina), a Vue.js core team member, will most likely dazzle us with RxJS.
 - [Krista Jäntti](/speakers/#krista-j-ntti), Lead UI/UX designer at [Varjo](https://varjo.com), will show us what's possible to achieve with extended reality these days.
 
