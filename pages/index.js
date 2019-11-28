@@ -60,7 +60,7 @@ const Index = ({ conference }) => (
     <AnchorHeader level={2}>Tickets</AnchorHeader>
     <div className="intro--main">
       <p>
-        The tickets for Freezing Edge begin from 199 eur (VAT included). The
+        The tickets for Freezing Edge begin from 99 eur (VAT included). The
         ticket includes access to the one day conference, lunch, snacks during
         the breaks, and an afterparty.
       </p>

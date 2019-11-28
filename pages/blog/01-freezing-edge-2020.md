@@ -52,4 +52,4 @@ To end the conference, we'll organize an afterparty. Although there will be like
 
 ## Conclusion
 
-We hope you'll come join us in the first edition of Freezing Edge. The pricing begins from 199€ and you can [buy tickets now](https://fienta.com/freezing-edge-2020?dc887244cff3ca32249a722f217ad0d6).
+We hope you'll come join us in the first edition of Freezing Edge. The pricing begins from 99€ and you can [buy tickets now](https://fienta.com/freezing-edge-2020?dc887244cff3ca32249a722f217ad0d6).
