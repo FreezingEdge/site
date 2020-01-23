@@ -46,6 +46,10 @@ export default [
       className: "nav--social",
     },
     links: [
+      {
+        title: "Blog",
+        url: "/blog/",
+      },
       /*{
         title: (
           <a href="https://www.youtube.com/c/ReactFinland">
