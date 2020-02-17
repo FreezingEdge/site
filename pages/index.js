@@ -1,24 +1,16 @@
 import React from "react";
 import {
-  AnchorHeader,
+  /*AnchorHeader,
   Contacts,
-  ContactMini,
+  ContactMini,*/
   Markdown,
   connect,
 } from "components";
 
 const intro = `
-In this single track, live coding focused event, you will learn about topics you would probably not hear otherwise.
+In this live coding focused meetup you will learn about topics you would probably not hear otherwise.
 
-Freezing Edge is a [React Finland](https://react-finland.fi) spin-off and it will be held right after the React focused event. In contrast to React Finland, it's a broad spectrum event that puts focus on live performance.
-
-Although normal conferences have their place, the standard format can get a little predictable after a while. The purpose of Freezing Edge is to focus on the technologies of the future, hence the name. We want to show you what's upcoming and what developers in other domains are currently working on.
-
-You should expect to learn about different aspects of multimedia (audio, graphics, extended reality) and programming languages of the future at least!
-
-The conference takes place 01.06.2020 and the weather isn't going to be freezing, unfortunately.
-
-[Read more about the conference!](/blog/freezing-edge-2020/)`;
+The first meetup takes place 01.06.2020 and the weather isn't going to be freezing, unfortunately. More details to come!`;
 
 const secondary = `
 By the way, we proudly follow [Berlin code of conduct](http://berlincodeofconduct.org/).
@@ -26,7 +18,7 @@ By the way, we proudly follow [Berlin code of conduct](http://berlincodeofconduc
 [Join React Finland Slack to connect with other attendees!](https://join.slack.com/t/react-finland/shared_invite/enQtMzQ0NDM1ODczMjE2LTI3MjZlZGNjNTNkOTU5N2E1OWYxYzY0MWE0Y2NiNWMxMWZiMWEyYjc4MmM1ZDQwZmFhOTkyODBmM2E4NjcxZjM)
 `;
 
-const Index = ({ conference }) => (
+const Index = () => (
   <>
     <section className="intro intro_home">
       <div className="intro--main">
@@ -49,7 +41,7 @@ const Index = ({ conference }) => (
         }
         render={ContactMini}
       />
-      </div>*/}
+      </div>
     <AnchorHeader level={2}>Speakers</AnchorHeader>
     <div className="grid--full speakers">
       <Contacts
@@ -72,7 +64,7 @@ const Index = ({ conference }) => (
       >
         Buy tickets
       </a>
-    </div>
+    </div>*/}
   </>
 );
 

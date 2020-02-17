@@ -10,7 +10,7 @@ export default [
         title: "About",
         url: "/about/",
       },
-      {
+      /*{
         title: "Speakers",
         url: "/speakers/",
       },
@@ -30,14 +30,22 @@ export default [
         title: "Schedule",
         url: "/schedule/",
       },
-      /*{
+      {
         title: "Workshops",
         url: "/workshops/",
-      },*/
+      },
       {
         title: <b>Buy tickets</b>,
         url:
           "https://fienta.com/freezing-edge-2020?dc887244cff3ca32249a722f217ad0d6",
+      },*/
+      {
+        title: "React Finland",
+        url: "https://react-finland.fi/",
+      },
+      {
+        title: "GraphQL Finland",
+        url: "https://graphql-finland.fi/",
       },
     ],
   },
@@ -46,11 +54,11 @@ export default [
       className: "nav--social",
     },
     links: [
-      {
+      /*{
         title: "Blog",
         url: "/blog/",
       },
-      /*{
+      {
         title: (
           <a href="https://www.youtube.com/c/ReactFinland">
             <i className="fab fa-youtube" aria-label="Youtube" />
@@ -80,6 +88,7 @@ export default [
       },
     ],
   },
+  /*
   {
     props: {
       className: "nav--secondary",
@@ -95,4 +104,5 @@ export default [
       },
     ],
   },
+  */
 ];

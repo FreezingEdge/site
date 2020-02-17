@@ -52,6 +52,7 @@ const SiteBody = (
         <div className="main-container container">
           <section className="grid grid_6col">
             {children}
+            {/*
             <div className="grid--full">
               <div className="sponsors">
                 <AnchorHeader
@@ -116,7 +117,7 @@ const SiteBody = (
                   <Contacts items={partners} render={Sponsor} />
                 </section>
               </div>
-            </div>
+            </div>*/}
           </section>
         </div>
         <Subscribe />
