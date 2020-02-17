@@ -24,7 +24,7 @@ module.exports = {
       "index",
       {
         title: EVENT_NAME,
-        description: `${EVENT_NAME} (01.06.2020, Helsinki) is a one day live coding conference.`,
+        description: `${EVENT_NAME} (01.06.2020, Helsinki) is a one day live coding workshop and meetup.`,
       },
       {
         conferenceId: CONFERENCE_ID,
