@@ -10,7 +10,7 @@ import {
 const intro = `
 In this live coding focused workshop/meetup you will learn about topics you would probably not hear otherwise. The paid workshop will take place before the meetup that's open for all.
 
-The first meetup takes place 01.06.2020 and the weather isn't going to be freezing, unfortunately. More details to come!`;
+The first meetup takes place some day in the future and the weather isn't going to be freezing, unfortunately. More details to come!`;
 
 const secondary = `
 By the way, we proudly follow [Berlin code of conduct](http://berlincodeofconduct.org/).
